@@ -1,0 +1,13 @@
+c:\users\asus_\documents\visual studio 2013\Projects\Aplikasi_input_data_perumahan\Aplikasi_input_data_perumahan\bin\Debug\Aplikasi_input_data_perumahan.exe.config
+c:\users\asus_\documents\visual studio 2013\Projects\Aplikasi_input_data_perumahan\Aplikasi_input_data_perumahan\bin\Debug\Aplikasi_input_data_perumahan.exe
+c:\users\asus_\documents\visual studio 2013\Projects\Aplikasi_input_data_perumahan\Aplikasi_input_data_perumahan\bin\Debug\Aplikasi_input_data_perumahan.pdb
+c:\users\asus_\documents\visual studio 2013\Projects\Aplikasi_input_data_perumahan\Aplikasi_input_data_perumahan\bin\Debug\Aplikasi_input_data_perumahan.xml
+c:\users\asus_\documents\visual studio 2013\Projects\Aplikasi_input_data_perumahan\Aplikasi_input_data_perumahan\obj\Debug\Aplikasi_input_data_perumahan.Form1.resources
+c:\users\asus_\documents\visual studio 2013\Projects\Aplikasi_input_data_perumahan\Aplikasi_input_data_perumahan\obj\Debug\Aplikasi_input_data_perumahan.Form2.resources
+c:\users\asus_\documents\visual studio 2013\Projects\Aplikasi_input_data_perumahan\Aplikasi_input_data_perumahan\obj\Debug\Aplikasi_input_data_perumahan.Resources.resources
+c:\users\asus_\documents\visual studio 2013\Projects\Aplikasi_input_data_perumahan\Aplikasi_input_data_perumahan\obj\Debug\Aplikasi_input_data_perumahan.vbproj.GenerateResource.Cache
+c:\users\asus_\documents\visual studio 2013\Projects\Aplikasi_input_data_perumahan\Aplikasi_input_data_perumahan\obj\Debug\Aplikasi_input_data_perumahan.exe
+c:\users\asus_\documents\visual studio 2013\Projects\Aplikasi_input_data_perumahan\Aplikasi_input_data_perumahan\obj\Debug\Aplikasi_input_data_perumahan.xml
+c:\users\asus_\documents\visual studio 2013\Projects\Aplikasi_input_data_perumahan\Aplikasi_input_data_perumahan\obj\Debug\Aplikasi_input_data_perumahan.pdb
+C:\Users\asus_\Documents\Visual Studio 2013\Projects\Aplikasi_input_data_perumahan\Aplikasi_input_data_perumahan\obj\Debug\Aplikasi_input_data_perumahan.vbprojResolveAssemblyReference.cache
+C:\Users\asus_\Documents\Visual Studio 2013\Projects\Aplikasi_input_data_perumahan\Aplikasi_input_data_perumahan\bin\Debug\MySql.Data.dll
